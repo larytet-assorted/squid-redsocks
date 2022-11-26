@@ -8,3 +8,4 @@ See also
 * https://medium.com/@brunoamaroalmeida/enabling-centralized-application-logging-using-the-elastic-elk-stack-from-stratch-a-15-minutes-eba501230b3d
 * https://www.cyberciti.biz/tips/linux-setup-transparent-proxy-squid-howto.html
 * https://linuxtechlab.com/squid-transparent-proxy-server-complete-configuration/
+* https://www.xmodulo.com/squid-transparent-web-proxy-centos-rhel.html
