@@ -9,3 +9,4 @@ See also
 * https://www.cyberciti.biz/tips/linux-setup-transparent-proxy-squid-howto.html
 * https://linuxtechlab.com/squid-transparent-proxy-server-complete-configuration/
 * https://www.xmodulo.com/squid-transparent-web-proxy-centos-rhel.html
+* https://serverfault.com/questions/1001453/how-to-configure-squid4-as-transparent-proxy
